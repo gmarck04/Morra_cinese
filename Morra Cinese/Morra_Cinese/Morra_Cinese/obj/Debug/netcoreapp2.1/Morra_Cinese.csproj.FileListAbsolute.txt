@@ -1,0 +1,11 @@
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\bin\Debug\netcoreapp2.1\Morra_Cinese.deps.json
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\bin\Debug\netcoreapp2.1\Morra_Cinese.runtimeconfig.json
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\bin\Debug\netcoreapp2.1\Morra_Cinese.runtimeconfig.dev.json
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\bin\Debug\netcoreapp2.1\Morra_Cinese.dll
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\bin\Debug\netcoreapp2.1\Morra_Cinese.pdb
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\obj\Debug\netcoreapp2.1\Morra_Cinese.csprojAssemblyReference.cache
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\obj\Debug\netcoreapp2.1\Morra_Cinese.csproj.CoreCompileInputs.cache
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\obj\Debug\netcoreapp2.1\Morra_Cinese.AssemblyInfoInputs.cache
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\obj\Debug\netcoreapp2.1\Morra_Cinese.AssemblyInfo.cs
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\obj\Debug\netcoreapp2.1\Morra_Cinese.dll
+C:\Users\gmarc\Desktop\Morra Cinese\Morra_Cinese\Morra_Cinese\obj\Debug\netcoreapp2.1\Morra_Cinese.pdb
